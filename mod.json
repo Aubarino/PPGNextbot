@@ -1,0 +1,21 @@
+{
+  "Name": "Nextbot Base",
+  "Author": "Aubarino",
+  "Description": "A Mod Template for users to create Nextbot-like mods with!",
+  "ModVersion": "1.0",
+  "GameVersion": "1.20+",
+  "ThumbnailPath": "Icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "NextbotMain.cs",
+    "NextbotAssets.cs",
+    "IngameRegist.cs",
+    "NextCategory.cs",
+    "Nextbot.cs",
+    "NextbotTexture.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": ""
+}
